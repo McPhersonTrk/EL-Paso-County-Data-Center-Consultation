@@ -1,21 +1,18 @@
 # EL-Paso-County-Data-Center-Consultation
 # "El Paso County Data Center Initiative: a First Look."
 Consultation For:
-### Deptartment of Technology, Strategy and Innovation,
+### Department of Technology, Strategy and Innovation,
 #### El Paso County, Colorado.
 
-#### By: McPherson Trucking
-### DBA:
+#### By: McPherson Trucking, DBA:
 ## McPherson Diversified Solutions and AI
 
 June 21, 2024
 
-Scenario: CIO asked if the creation of a Data Center for the county was a viable solution to meeet budgetary restraints going into the future.
+Scenario: CIO asked if the creation of a Data Center for the county was a viable solution to meet budgetary restraints going into the future.
 The following is the result. Time on task took less than half of a day.
 
 ## Index:
-# Index
-# Index
 
 1. [El Paso County Data Center Initiative](#el-paso-county-data-center-initiative-a-proof-of-concept-and-proof-of-work-under-mit-license)
     1. [Introduction](#introduction-1)
@@ -113,7 +110,7 @@ In response to the escalating costs and unsustainable financial burden posed by 
 
 El Paso County currently relies on Microsoft and Google cloud services, which have been increasing their rates by approximately 15% every three years. This model is no longer tenable given our budget constraints and the need for a more predictable and sustainable financial strategy. Building our own data center offers several critical benefits:
 
-1. **Cost Savings**: By transitioning to a county-owned data center, we can significantly reduce recurring expenses associated with external cloud services. The initial capital investment will be offset by long-term savings on operational costs, providing a more predictable financial model.
+1. **Cost Savings**: By transitioning to a county-owned data center, we can significantly reduce recurring expenses associated with external cloud services. The Initial Capital Investment will be offset by long-term savings on operational costs, providing a more predictable financial model.
 2. **Scalability**: The proposed data center will offer scalable infrastructure, allowing us to expand capacity as needed without incurring substantial additional costs. This flexibility is essential for accommodating future growth and technological advancements.
 3. **Control and Security**: Owning our data center provides greater control over our data and IT infrastructure. We can implement enhanced security measures to protect sensitive information, ensuring compliance with regulatory requirements and minimizing the risk of data breaches.
 4. **Performance Optimization**: On-premises data centers can be optimized for performance, ensuring that critical applications and services run efficiently. This control over the hardware and software environment can lead to improved service delivery and user satisfaction.
@@ -967,8 +964,8 @@ Here are some available commercial real estate options in El Paso County, Colora
 2. **Everty Plaza at Woodmen**
     - Location: 6860 Campus Drive, Falcon Estates, Colorado Springs, CO
     - Property Type: Office
-    - Total Space: 140,583 SF
-    - Availability: 3 Spaces, 141,126 SF
+    - Total Space: 141,126 SF
+    - Availability: 3 Spaces, 36,521 SF, 47,883 SF & 56,722 SF
     - Cost: $9.50 - $17.00/SF/YR
     - Year Built: 1982
 
@@ -1174,7 +1171,7 @@ Exploring these funding sources can help secure the necessary financial support 
     - Core Equipment: $541,000 to $2,345,000
     - Construction and Installation: $8.938M to $14.924M
 
-- **First-Year Total Cost (including CapEx and first-year OpEx)**
+- **First-Year Cost (including CapEx and first-year OpEx)**
     - $9.913M to $16.514M
 
 ### Summary
@@ -1190,7 +1187,7 @@ This document provides a comprehensive cost estimation for using cloud service p
 ### Assumptions
 1. **Compute**
     - 100 VMs (equivalent to rack servers) with medium configuration
-    - Each VM costs approximately $100/month on average
+    - Each VM costs approximately $100/month
 
 2. **Storage**
     - 100TB storage
