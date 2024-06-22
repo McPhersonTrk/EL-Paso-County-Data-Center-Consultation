@@ -1,11 +1,11 @@
 # EL-Paso-County-Data-Center-Consultation
 # "El Paso County Data Center Initiative: a First Look."
-COnsultation For:
-### Dept of Technology, Strategy and Innovation,
+Consultation For:
+### Deptartment of Technology, Strategy and Innovation,
 #### El Paso County, Colorado.
 
-### By McPherson Trucking
-## DBA:
+#### By: McPherson Trucking
+### DBA:
 ## McPherson Diversified Solutions and AI
 
 June 21, 2024
