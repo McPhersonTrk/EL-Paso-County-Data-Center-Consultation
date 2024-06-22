@@ -13,7 +13,7 @@ June 21, 2024
 Scenario: CIO asked if the creation of a Data Center for the county was a viable solution to meeet budgetary restraints going into the future.
 The following is the result. Time on task took less than half of a day.
 
-##Index:
+## Index:
 # Index
 # Index
 
