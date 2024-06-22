@@ -1,7 +1,7 @@
 # EL-Paso-County-Data-Center-Consultation
 # "El Paso County Data Center Initiative: a First Look."
 Consultation For:
-### Department of Technology, Strategy and Innovation,
+###  Digital, Strategy & Technology Department
 #### El Paso County, Colorado.
 
 #### By: McPherson Trucking, DBA:
@@ -102,7 +102,7 @@ The following is the result. Time on task took less than half of a day.
 
 # El Paso County Data Center Initiative: A Proof of Concept and Proof of Work under MIT License
 
-## To the Department of Technology, Innovation and Strategy
+## To the  Digital, Strategy, & Technology Department
 
 In response to the escalating costs and unsustainable financial burden posed by current cloud service providers, we present the "El Paso County Data Center Initiative: A Proof of Concept and Proof of Work under MIT License." This initiative aims to establish a county-owned data center to meet our growing data needs efficiently and cost-effectively.
 
